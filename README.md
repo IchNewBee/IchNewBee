@@ -1,9 +1,14 @@
 ### Hi there 👋
 ### I'm NewBee 😉. Welcome to my Profile! 😏😏😏
+<br>
 
-Idk how to introduce myself...
-But...
-🥺I like cooking and coding. 
+>Hey<br>
+>ummm<br>
+>Idk how to introduce myself...<br>
+>But...<br>
+>🥺I like cooking and coding. <br>
+>🙂
+
 <!--
 **IchNewBee/IchNewBee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
