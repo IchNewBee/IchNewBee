@@ -1,11 +1,10 @@
 ### Hi there 👋
-### I'm NewBee 😉. Welcome to my Profile! 😏😏😏
+### Welcome to my Profile! 😏😏😏
 <br>
 
 >Hey<br>
 >ummm<br>
->Idk how to introduce myself...<br>
->But...<br>
+>I'm a amateur python programmar. <br>
 >🥺I like cooking and coding. <br>
 >🙂
 
