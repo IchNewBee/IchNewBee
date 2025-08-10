@@ -6,7 +6,7 @@
 >ummm<br>
 >I'm a amateur python programmar. <br>
 >🥺I like cooking and coding. <br>
->🙂Write me if you are also currently writing a web app using python!
+>🙂Write me if you are also currently writing a web app using python and vue.js!
 
 <!--
 **IchNewBee/IchNewBee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
